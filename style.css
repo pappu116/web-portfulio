@@ -54,11 +54,11 @@ section{
     background-repeat: no-repeat;
     background-position: left;
 }
-#full-stack{
-    border-left: 7px solid;
-    border-image: linear-gradient(180deg, lightsalmon, tomato);
-    border-image-slice: 1;
-
+#full-stack {
+	border-left: 7px solid;
+	border-image: linear-gradient(180deg, lightsalmon, tomato);
+	border-image-slice: 1;
+	margin-left: 50px;
 }
 #baby-web{
     border-left: 7px solid;
